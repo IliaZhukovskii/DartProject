@@ -1,5 +1,5 @@
-## Site Black Sea
-[Black Sea]( https://iliazhukovskii.github.io/BlackSeaProject/ "Launch a website")
+## Site Dart
+[Dart]( https://iliazhukovskii.github.io/DartProject/ "Launch a website")
 
 - SCSS
 - Gulp 4
